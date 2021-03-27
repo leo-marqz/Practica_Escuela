@@ -1,0 +1,16 @@
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\Escuela.exe
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\Escuela.deps.json
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\Escuela.runtimeconfig.json
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\Escuela.runtimeconfig.dev.json
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\Escuela.dll
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\ref\Escuela.dll
+C:\Users\FUJITSU\Escuela\bin\Debug\net5.0\Escuela.pdb
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.csprojAssemblyReference.cache
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.AssemblyInfoInputs.cache
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.AssemblyInfo.cs
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.dll
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\ref\Escuela.dll
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.pdb
+C:\Users\FUJITSU\Escuela\obj\Debug\net5.0\Escuela.genruntimeconfig.cache
